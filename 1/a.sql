@@ -1,1 +1,1 @@
-select * from users where name = "sonya"
+select * from users where name = "sonya" and age = 18
